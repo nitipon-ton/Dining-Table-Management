@@ -1,0 +1,392 @@
+1
+11-Advisor51 -GC -Nick Pope
+11-Advisor40 -FF -Sam Johnstone
+10-Advisor26 -CA -Luis Sinisterra
+10-Advisor11 -DG -Lukasz Fabianski
+11-Advisor11 -CE -Thibout Courtois
+11-Advisor48 -CA -Mohamed Salah
+2
+09-Advisor18 -DE -Enzo Fernandez
+12-Advisor25 -EA -Cody Gakpo
+10-Advisor49 -BF -Kurt Zouma
+11-Advisor52 -CD -Fred
+12-Advisor20 -CA -Ruben Neves
+10-Advisor14 -CC -Pablo Sarabia
+3
+11-Advisor46 -AD -Demarai Gray
+12-Advisor37 -AB -Miguel Almiron
+12-Advisor25 -EB -Vladimir Coufal
+09-Advisor10 -GD -Orel Mangala
+12-Advisor36 -FG -Isco Alarcon
+11-Advisor38 -BE -Cristiano Ronaldo
+4
+10-Advisor32 -EB -Harry Wilson
+12-Advisor22 -BF -Christian Pulisic
+12-Advisor57 -FB -Ryan Christie
+11-Advisor57 -CG -Adama Traore
+12-Advisor11 -AD -Dennis Praet
+12-Advisor36 -CG -Mois?s Caicedo
+5
+12-Advisor57 -EF -Ryan Yates
+11-Advisor47 -CA -Callum Wilson
+11-Advisor42 -FF -Angel Di Maria
+09-Advisor21 -GF -Renan Lodi
+12-Advisor42 -BF -Remo Freuler
+10-Advisor53 -AE -Jack Harrison
+6
+12-Advisor12 -GG -Rodri
+10-Advisor27 -GC -Ben White
+09-Advisor54 -BG -Nayef Aguerd
+10-Advisor14 -BE -Luke Shaw
+11-Advisor59 -DC -Daniel Iversen
+10-Advisor20 -AB -Marcus Rashford
+7
+12-Advisor34 -GF -Maximilian Weber
+12-Advisor54 -DC -Christian Norgaard
+10-Advisor12 -AF -Che Adams
+09-Advisor19 -EE -Paulo Dybala
+12-Advisor58 -CD -Tyler Adams
+09-Advisor13 -AD -Alexander Isak
+8
+09-Advisor12 -FB -Neymar
+09-Advisor35 -EE -Conor Gallagher
+12-Advisor40 -CD -Adam Webster
+10-Advisor24 -CC -Lionel Messi
+09-Advisor54 -DB -Carlos Vinicius
+12-Advisor45 -AG -Toni Kroos
+9
+10-Advisor49 -BC -Adam Smith
+10-Advisor38 -DC -Wayne Hennessey
+12-Advisor13 -AD -Jadon Sancho
+09-Advisor26 -GF -Nathan Collins
+10-Advisor46 -FB -Pierre-Emerick Aubameyang
+09-Advisor21 -AF -Ollie Watkins
+10
+09-Advisor38 -FC -Wesley Fofana
+10-Advisor47 -GE -James Rodriguez
+12-Advisor18 -GD -Michael Olise
+11-Advisor11 -CB -Ellis Simms
+11-Advisor22 -FE -Ben Mee
+09-Advisor42 -ED -Matty Cash
+11
+11-Advisor12 -GF -Joel Veltman
+11-Advisor36 -AA -Raheem Sterling
+11-Advisor50 -EB -Michail Antonio
+11-Advisor39 -FD -James Tarkowski
+12-Advisor25 -BB -Ruben Dias
+12-Advisor39 -CG -Matheus Cunha
+12
+12-Advisor54 -GG -Antonee Robinson
+09-Advisor38 -GE -Keylor Navas
+12-Advisor44 -GC -Vicente Guaita
+11-Advisor20 -DE -Casemiro
+11-Advisor46 -DF -Neto
+09-Advisor11 -DF -Vitaly Janelt
+13
+09-Advisor36 -EA -Gabriel Magalhaes
+11-Advisor11 -DB -Illan Meslier
+10-Advisor24 -DD -Theo Walcott
+09-Advisor42 -BB -Seamus Coleman
+12-Advisor28 -CA -Bryan Mbeumo
+09-Advisor21 -FD -Fabinho
+14
+12-Advisor23 -CE -Luke Ayling
+11-Advisor10 -FF -Gonzalo Higuain
+12-Advisor21 -GB -John McGinn
+12-Advisor44 -DA -Harvey Barnes
+09-Advisor20 -FB -Nelson Semedo
+10-Advisor45 -GD -Emiliano Martinez
+15
+10-Advisor26 -BE -Reiss Nelson
+12-Advisor50 -AG -Jack Grealish
+12-Advisor45 -GF -Alisson
+12-Advisor47 -AB -Scott McKenna
+09-Advisor37 -DA -Kelechi Iheanacho
+10-Advisor29 -CB -Asmir Begovic
+16
+10-Advisor18 -EC -Craig Dawson
+12-Advisor48 -CE -Ezri Konsa
+09-Advisor41 -BD -Nampalys Mendy
+10-Advisor49 -FF -Harvey Elliott
+11-Advisor49 -DB -Douglas Luiz
+10-Advisor57 -EB -Philippe Coutinho
+17
+11-Advisor37 -BC -Lewis O'Brien
+09-Advisor54 -DC -Jordan Zemura
+09-Advisor56 -CA -Gareth Bale
+10-Advisor46 -GC -Felipe
+09-Advisor42 -AF -Harry Kane
+09-Advisor55 -EF -John Stones
+18
+11-Advisor11 -GB -Dejan Kulusevski
+10-Advisor14 -DC -Edouard Mendy
+09-Advisor29 -BE -Bernd Leno
+11-Advisor22 -FB -Emmanuel Dennis
+10-Advisor12 -CA -Leandro Trossard
+09-Advisor39 -CB -James Justin
+19
+12-Advisor46 -AD -Kaoru Mitoma
+09-Advisor17 -BF -Sami Khedira
+09-Advisor11 -GA -Evan Ferguson
+10-Advisor37 -DD -Thiago
+12-Advisor59 -CG -Armel Bella-Kotchap
+09-Advisor12 -DF -Raul Gonzalez
+20
+09-Advisor20 -DF -Cristian Romero
+11-Advisor13 -BC -David Raya
+12-Advisor18 -AB -Ivan Toney
+12-Advisor14 -GB -Jacob Murphy
+11-Advisor59 -BE -Issa Diop
+09-Advisor20 -FD -Bertrand Traore
+21
+11-Advisor17 -FB -Lloyd Kelly
+12-Advisor21 -EA -Bernardo Silva
+09-Advisor51 -FE -Alex Iwobi
+09-Advisor50 -GB -Trent Alexander-Arnold
+11-Advisor17 -AA -James Ward-Prowse
+10-Advisor56 -AC -Kepa Arrizabalaga
+22
+12-Advisor35 -DD -Daniel Amartey
+12-Advisor15 -FF -Willy Boly
+10-Advisor54 -GE -Jonny Evans
+10-Advisor22 -DC -Yerry Mina
+10-Advisor38 -FF -Virgil van Dijk
+09-Advisor13 -DA -Granit Xhaka
+23
+12-Advisor14 -AB -Dwight McNeil
+09-Advisor45 -DF -Hwang Hee-Chan
+12-Advisor24 -DC -Fabian Schar
+12-Advisor37 -CG -Diego Carlos
+11-Advisor41 -GC -Pontus Jansson
+11-Advisor17 -CA -Rodrigo Bentancur
+24
+11-Advisor24 -FG -Fraser Forster
+09-Advisor48 -AB -Danny Welbeck
+11-Advisor49 -EB -Stefan Bajcetic
+10-Advisor11 -AE -Adam Armstrong
+10-Advisor48 -DE -Cheick Oumar Doucoure
+09-Advisor30 -FC -S?kou Mara
+25
+10-Advisor34 -GB -Ryan Sessegnon
+10-Advisor52 -EF -Bruno Guimaraes
+12-Advisor58 -BC -Alvaro Morata
+10-Advisor35 -AB -Patson Daka
+11-Advisor46 -CE -Mark Travers
+11-Advisor17 -FC -Sergio Ramos
+09-Advisor42 -EB -Dominic Calvert-Lewin
+26
+12-Advisor30 -DC -Ederson
+09-Advisor12 -BE -David de Gea
+10-Advisor47 -GG -Pervis Estupinan
+12-Advisor20 -EA -Jordan Ayew
+10-Advisor53 -EE -Kiernan Dewsbury-Hall
+11-Advisor47 -BE -Gianluca Scamacca
+11-Advisor36 -BB -Idrissa Gueye
+27
+12-Advisor25 -DE -Chris Mepham
+09-Advisor46 -BG -Max Kilman
+09-Advisor15 -BC -Steve Cook
+10-Advisor42 -BG -Pepe
+09-Advisor27 -EG -Jorginho
+10-Advisor46 -AF -Emiliano Buendia
+12-Advisor26 -BE -Wout Faes
+28
+11-Advisor50 -FD -Ethan Pinnock
+11-Advisor54 -AA -Ivan Perisic
+09-Advisor50 -AF -Son Heung-Min
+12-Advisor53 -CE -Sven Botman
+12-Advisor47 -DA -Solly March
+10-Advisor22 -EB -Lucas Paqueta
+12-Advisor46 -GF -Conor Coady
+29
+11-Advisor57 -GD -Marc Guehi
+10-Advisor40 -FB -Joseph Whitworth
+09-Advisor14 -ED -Declan Rice
+09-Advisor56 -GE -Alejandro Garnacho
+10-Advisor45 -GF -Alex Oxlade-Chamberlain
+09-Advisor56 -BF -Marek Rodak
+09-Advisor48 -FC -Vitalii Mykolenko
+30
+09-Advisor49 -DA -Pierre-Emile Hojbjerg
+09-Advisor10 -BG -Robert Sanchez
+12-Advisor34 -DC -Jason Steele
+09-Advisor22 -AE -Jacob Ramsey
+10-Advisor53 -BE -Chris Wood
+09-Advisor18 -BE -Aaron Ramsdale
+12-Advisor49 -ED -Ricardo Kaka
+31
+12-Advisor50 -AE -Karim Benzema
+10-Advisor26 -AD -Kylian Mbappe
+09-Advisor31 -FF -Tyrick Mitchell
+09-Advisor46 -EA -Luis Suarez
+09-Advisor25 -DB -Ricardo Pereira
+11-Advisor28 -FC -Jose Maria Callejon
+12-Advisor56 -FE -Sam Surridge
+32
+10-Advisor19 -CB -Thomas Partey
+10-Advisor13 -FG -Oliver Skipp
+12-Advisor28 -EE -Abdoulaye Doucoure
+11-Advisor38 -AA -Gabriel Jesus
+09-Advisor54 -GC -Stuart Armstrong
+12-Advisor55 -GB -Jefferson Lerma
+11-Advisor31 -CG -Tim Ream
+33
+09-Advisor43 -EA -Rodrigo
+11-Advisor58 -BC -Scott McTominay
+10-Advisor23 -FB -Rayan Ait-Nouri
+11-Advisor13 -DF -Fabio Coentrao
+10-Advisor39 -GB -Aymeric Laporte
+09-Advisor52 -EE -Iker Casillas
+09-Advisor26 -CE -Sam Greenwood
+34
+11-Advisor54 -BA -Bruno Fernandes
+11-Advisor44 -BG -Oleksandr Zinchenko
+09-Advisor12 -AC -Kevin De Bruyne
+09-Advisor55 -AD -Odsonne Edouard
+11-Advisor16 -DF -Reece James
+12-Advisor36 -CD -Mohammed Salisu
+10-Advisor44 -CC -Jack Stephens
+35
+10-Advisor32 -EF -Dani Ceballos
+09-Advisor10 -AA -Leon Bailey
+11-Advisor59 -AA -Luka Modric
+09-Advisor36 -EG -Jan Bednarek
+09-Advisor23 -CA -Gabriel Martinelli
+12-Advisor58 -EB -Rico Henry
+11-Advisor23 -AF -Danny Ings
+36
+12-Advisor35 -GF -Marcelo
+11-Advisor55 -EF -Xavi Alonso
+12-Advisor46 -BC -Lucas Digne
+12-Advisor27 -DF -Joao Felix
+12-Advisor42 -EA -Roberto Firmino
+09-Advisor19 -AA -Julian Alvarez
+11-Advisor25 -CG -Manuel Akanji
+37
+10-Advisor10 -AA -Thomas Muller
+11-Advisor17 -BE -Duje Caleta-Car
+11-Advisor15 -EE -Sean Longstaff
+11-Advisor31 -DA -Dominic Solanke
+10-Advisor28 -BB -Daniel James
+11-Advisor29 -AE -Philip Billing
+12-Advisor35 -CG -Andreas Pereira
+38
+10-Advisor48 -AA -Phil Foden
+11-Advisor35 -DC -Benoit Badiashile
+09-Advisor54 -EB -Nathaniel Clyne
+09-Advisor19 -DE -Jamie Vardy
+09-Advisor40 -DD -Harry Souttar
+10-Advisor57 -AA -James Maddison
+11-Advisor40 -FD -Arnaut Danjuma
+39
+11-Advisor19 -DB -Lucas Vazquez
+10-Advisor10 -FB -Danny Ward
+09-Advisor23 -GA -Emerson Royal
+10-Advisor25 -GG -Robin Koch
+12-Advisor47 -CA -Pascal Grob
+09-Advisor25 -GA -Alexis Mac Allister
+09-Advisor38 -AE -Eberechi Eze
+40
+11-Advisor50 -FB -Diego Costa
+10-Advisor22 -FB -Thilo Kehrer
+11-Advisor34 -BD -Diogo Jota
+09-Advisor11 -FB -Robin Olsen
+09-Advisor44 -BE -James Tomkins
+12-Advisor26 -BD -Kyle Walker-Peters
+11-Advisor47 -BC -Mat?as Vi?a
+41
+09-Advisor37 -GE -Amadou Onana
+09-Advisor52 -CA -Jarrod Bowen
+12-Advisor24 -GF -Ibrahima Konate
+12-Advisor17 -EE -Tomas Soucek
+12-Advisor37 -CG -Kenny Tete
+11-Advisor44 -GF -Joao Palhinha
+10-Advisor26 -BB -Victor Kristiansen
+42
+11-Advisor46 -FE -Luis Diaz
+09-Advisor57 -AD -Nacho Fernandez
+10-Advisor24 -AE -Aleksandar Mitrovic
+12-Advisor59 -BE -Kieran Trippier
+10-Advisor38 -GA -Danilo
+11-Advisor47 -FG -Pablo Fornals
+12-Advisor15 -CD -Dean Henderson
+43
+09-Advisor47 -CG -Dan Burn
+11-Advisor49 -AC -Riyad Mahrez
+09-Advisor26 -CA -Antony
+12-Advisor59 -AD -Ilkay Gundogan
+09-Advisor27 -EG -Diogo Dalot
+10-Advisor21 -EE -Joe Willock
+10-Advisor40 -FD -Jose Sa
+44
+10-Advisor29 -CE -Timothy Castagne
+09-Advisor44 -GG -Patrick Bamford
+11-Advisor21 -GD -Cheikhou Kouyate
+12-Advisor25 -AD -Anthony Martial
+10-Advisor25 -GG -Kristoffer Ajer
+09-Advisor56 -CE -Raphael Varane
+09-Advisor47 -FG -Gavin Bazunu
+45
+12-Advisor20 -GF -Ashley Young
+11-Advisor56 -CD -Marco Asensio
+09-Advisor29 -EA -Said Benrahma
+10-Advisor40 -DG -Emerson
+10-Advisor21 -AG -Bukayo Saka
+09-Advisor44 -CB -Dani Carvajal
+09-Advisor58 -DB -Mesut Ozil
+46
+09-Advisor26 -DB -Lewis Dunk
+10-Advisor29 -CB -Adam Lallana
+12-Advisor28 -AC -Edward Nketiah
+11-Advisor43 -EG -Joel Matip
+11-Advisor58 -GD -Michael Keane
+12-Advisor54 -BG -Thiago Silva
+12-Advisor28 -EB -Ben Davies
+47
+09-Advisor32 -DG -Neal Maupay
+11-Advisor38 -FE -Armando Broja
+12-Advisor49 -DC -Kalidou Koulibaly
+10-Advisor20 -DE -Serge Aurier
+12-Advisor37 -CA -William Saliba
+12-Advisor19 -GC -Joao Gomes
+10-Advisor19 -BD -Ben Chilwell
+48
+12-Advisor18 -DA -Daniel Podence
+11-Advisor53 -DC -Boubacar Kamara
+12-Advisor24 -DF -Tyrone Mings
+09-Advisor31 -BD -Hugo Lloris
+10-Advisor49 -AG -Marcus Tavernier
+09-Advisor14 -FB -Angelo Ogbonna
+11-Advisor18 -FC -Aaron Cresswell
+49
+12-Advisor20 -DG -Lisandro Martinez
+11-Advisor16 -DB -Moussa Niakhate
+12-Advisor57 -FD -Youri Tielemans
+11-Advisor39 -BC -Jeff Schlupp
+10-Advisor36 -DA -Wilfried Zaha
+12-Advisor28 -AA -Joelinton
+12-Advisor42 -BD -Nathan Ake
+50
+12-Advisor55 -AG -Martin Odegaard
+09-Advisor55 -BE -Mateus Tet?
+11-Advisor52 -GA -Mathias Jensen
+10-Advisor54 -DE -Junior Firpo
+10-Advisor38 -GB -Allan Saint-Maximin
+11-Advisor25 -DD -Joel Ward
+09-Advisor55 -DE -Mason Mount
+51
+10-Advisor35 -GF -Mason Holgate
+12-Advisor25 -BD -Clement Lenglet
+09-Advisor12 -DA -Erling Haaland
+11-Advisor25 -ED -Weston McKennie
+09-Advisor55 -FG -Mateo Kovacic
+09-Advisor36 -BD -Willian
+11-Advisor30 -BC -Andy Robertson
+52
+10-Advisor28 -EA -Darwin Nunez
+10-Advisor48 -CE -Eric Dier
+09-Advisor28 -CG -Fabio Vieira
+11-Advisor13 -DF -Jordan Pickford
+11-Advisor32 -DA -Kai Havertz
+11-Advisor35 -DC -Christian Eriksen
+09-Advisor34 -GB -Anthony Gordon
